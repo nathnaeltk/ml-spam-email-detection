@@ -19,12 +19,3 @@ The primary goal of this project is to:
 - Visualize the results and model performance using metrics like accuracy, confusion matrix, and ROC curve.
 
 ---
-
-## Installation
-
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/spam-detection.git
